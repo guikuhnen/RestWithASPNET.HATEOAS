@@ -13,6 +13,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageIcon>restful-api.png</PackageIcon>
     <Version>8.0.304.3</Version>
+    <Authors>guikuhnen</Authors>
   </PropertyGroup>
 
   <ItemGroup>
