@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/guikuhnen/RestWithASPNET.HATEOAS)
 ![Forks](https://img.shields.io/github/forks/guikuhnen/RestWithASPNET.HATEOAS)
 ![Stars](https://img.shields.io/github/stars/guikuhnen/RestWithASPNET.HATEOAS)
-[![.NET 8 Continuous Integration with GitHub, GitHub Actions and Nuget Packages](https://github.com/guikuhnen/RestWithASPNET.HATEOAS/actions/workflows/continous-integration-nuget.yaml/badge.svg)](https://github.com/guikuhnen/RestWithASPNET.HATEOAS/actions/workflows/continous-integration-nuget.yaml)
+[![.NET 8 Continuous Integration with GitHub, GitHub Actions and Nuget Packages](https://github.com/guikuhnen/RestWithASPNET.HATEOAS/actions/workflows/continous-integration-nuget.yml/badge.svg)](https://github.com/guikuhnen/RestWithASPNET.HATEOAS/actions/workflows/continous-integration-nuget.yml)
 
 ### Repositório dedicado ao desenvolvimento da Class Library de HATEOAS do Nuget referente ao Curso: [REST API's RESTFul do 0 à Azure com ASP.NET 8 e 5 e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/)
 
