@@ -3,8 +3,6 @@
 [![NuGet](https://img.shields.io/nuget/v/RestWithASPNET.HATEOAS.svg)](https://www.nuget.org/packages/RestWithASPNET.HATEOAS)
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/guikuhnen/RestWithASPNET.HATEOAS)
 ![Last Commit](https://img.shields.io/github/last-commit/guikuhnen/RestWithASPNET.HATEOAS)
-![Forks](https://img.shields.io/github/forks/guikuhnen/RestWithASPNET.HATEOAS)
-![Stars](https://img.shields.io/github/stars/guikuhnen/RestWithASPNET.HATEOAS)
 [![.NET 8 Continuous Integration with GitHub, GitHub Actions and Nuget Packages](https://github.com/guikuhnen/RestWithASPNET.HATEOAS/actions/workflows/continous-integration-nuget.yml/badge.svg)](https://github.com/guikuhnen/RestWithASPNET.HATEOAS/actions/workflows/continous-integration-nuget.yml)
 
 ### Repositório dedicado ao desenvolvimento da Class Library de HATEOAS do Nuget referente ao Curso: [REST API's RESTFul do 0 à Azure com ASP.NET 8 e 5 e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/)
@@ -16,7 +14,7 @@
 > ### 1 - Import RestWithASPNET.HATEOAS to your projetct
 #### Import with command line or with nuget package manager
 ```bash
-Install-Package RestWithASPNET.HATEOAS -Version 8.0.101.5
+Install-Package RestWithASPNET.HATEOAS -Version 8.0.304.3
 ```
 
 > ### 2 - Implements *ISupportsHyperMedia* in your exposed object.
