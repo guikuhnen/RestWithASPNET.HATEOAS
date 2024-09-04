@@ -4,6 +4,29 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Description>This is a smart library to implements HATEOAS docummentation in your RESTFul API's.</Description>
+    <Copyright>Copyright © guikuhnen - GitHub 2024</Copyright>
+    <PackageProjectUrl>https://github.com/guikuhnen/RestWithASPNET.HATEOAS</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/guikuhnen/RestWithASPNET.HATEOAS</RepositoryUrl>
+    <PackageTags>HATEOAS</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageIcon>restful-api.png</PackageIcon>
   </PropertyGroup>
 
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\Images\restful-api.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+  
 </Project>
